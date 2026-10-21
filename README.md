@@ -1,3 +1,6 @@
+[![DOI](https://sandbox.zenodo.org/badge/1300598651.svg)](https://handle.test.datacite.org/10.5072/zenodo.624259)
+
+
 # PROJECT_NAME
 
 TODO: one or two sentences on what this project is and what question it addresses.
